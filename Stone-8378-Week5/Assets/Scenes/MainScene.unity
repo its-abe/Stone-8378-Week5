@@ -620,7 +620,7 @@ GameObject:
   - component: {fileID: 605496395}
   - component: {fileID: 605496402}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Spaceship
   m_TagString: Spaceship
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -996,7 +996,7 @@ GameObject:
   - component: {fileID: 1122901833}
   - component: {fileID: 1122901832}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: Playspace
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
