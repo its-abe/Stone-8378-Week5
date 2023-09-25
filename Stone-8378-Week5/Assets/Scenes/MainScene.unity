@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 129963008}
   m_Layer: 0
   m_Name: AlienT5
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -302,7 +302,7 @@ GameObject:
   - component: {fileID: 196583367}
   m_Layer: 0
   m_Name: AlienT6
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -407,7 +407,7 @@ GameObject:
   - component: {fileID: 555981029}
   m_Layer: 0
   m_Name: AlienB6
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -512,7 +512,7 @@ GameObject:
   - component: {fileID: 598373480}
   m_Layer: 0
   m_Name: AlienB4
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -621,7 +621,7 @@ GameObject:
   - component: {fileID: 605496402}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: Spaceship
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -800,7 +800,7 @@ GameObject:
   - component: {fileID: 946388288}
   m_Layer: 0
   m_Name: AlienT1
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1103,7 +1103,7 @@ GameObject:
   - component: {fileID: 1194817223}
   m_Layer: 0
   m_Name: AlienT2
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1285,7 +1285,7 @@ GameObject:
   - component: {fileID: 1573534166}
   m_Layer: 0
   m_Name: AlienB3
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1390,7 +1390,7 @@ GameObject:
   - component: {fileID: 1611879952}
   m_Layer: 0
   m_Name: AlienB2
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1589,7 +1589,7 @@ GameObject:
   - component: {fileID: 1883866816}
   m_Layer: 0
   m_Name: AlienT3
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1694,7 +1694,7 @@ GameObject:
   - component: {fileID: 2068766096}
   m_Layer: 0
   m_Name: AlienB1
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1799,7 +1799,7 @@ GameObject:
   - component: {fileID: 2106382661}
   m_Layer: 0
   m_Name: AlienB5
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1904,7 +1904,7 @@ GameObject:
   - component: {fileID: 2112259619}
   m_Layer: 0
   m_Name: AlienT4
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
